@@ -1,27 +1,10 @@
-# test-project
+ <p align="center"> 
+    <img src="https://github.com/JelaniThompson/arduinoemotions/blob/master/arduino-gif.gif" alt="alternate text">
+ </p>
+# Arduino Emotions Robot
 
-> A Vue.js project
+This is a small project done to get practice working with the Arduino Uno. Part of an assignment done for Physical Computing in the Digital Futures program at OCAD University.
 
-## Build Setup
+I partnered with Thomas Liu for this assignment.
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Thanks to @camwhite for the help as well!
